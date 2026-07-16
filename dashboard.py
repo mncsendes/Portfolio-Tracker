@@ -8,7 +8,7 @@ st.set_page_config(page_title="My Portfolio Tracker", layout="wide")
 st.title("📊 My Personal Portfolio Dashboard")
 
 # API KEY
-API_KEY = "ENTER YOUR APO KEY HERE" 
+API_KEY = "ENTER YOUR API KEY HERE" 
 
 # Stock tickers to track
 tickers = ["AAPL", "MSFT", "GOOGL", "NVDA", "VOO"]
